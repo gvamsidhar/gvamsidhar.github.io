@@ -65,7 +65,7 @@ input, select, textarea {
   width: device-width; }
 
 body {
-  -ms-overflow-style: local; }
+  -ms-overflow-style: fixed; }
 
 @media screen and (max-width: 480px) {
   html, body {
